@@ -1,1 +1,5 @@
-Start of my own pokemonm fangame
+Pokemon Primal Balance.
+
+
+
+Start of my own pokemon fangame
