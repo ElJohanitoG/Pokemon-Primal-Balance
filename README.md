@@ -2,4 +2,4 @@ Pokemon Primal Balance.
 
 
 
-Start of my own pokemonm fangame
+Start of my own pokemon fangame
